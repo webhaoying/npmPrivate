@@ -1,6 +1,6 @@
 {
   "name": "npmPrivate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "the process of private package mannager ```   npm install ```",
   "main": "index.js",
   "dependencies": {
