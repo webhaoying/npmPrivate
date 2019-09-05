@@ -1,0 +1,25 @@
+{
+  "name": "npmPrivate",
+  "version": "1.0.0",
+  "description": "the process of private package mannager ```   npm install ```",
+  "main": "index.js",
+  "dependencies": {
+    "csxcom": "^0.0.2",
+    "pandahaoone": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webhaoying/npmPrivate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webhaoying/npmPrivate/issues"
+  },
+  "homepage": "https://github.com/webhaoying/npmPrivate#readme"
+}
