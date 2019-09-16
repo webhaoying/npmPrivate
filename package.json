@@ -1,12 +1,8 @@
 {
-  "name": "npmPrivate",
+  "name": "npmprivate",
   "version": "1.0.2",
   "description": "the process of private package mannager ```   npm install ```",
   "main": "index.js",
-  "dependencies": {
-    "csxcom": "^0.0.2",
-    "pandahaoone": "^1.0.0"
-  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/webhaoying/npmPrivate/issues"
   },
-  "homepage": "https://github.com/webhaoying/npmPrivate#readme"
+  "homepage": "https://github.com/webhaoying/npmPrivate#readme",
+  "dependencies": {
+    "eslint-config-yhcsx": "^1.0.9"
+  }
 }
